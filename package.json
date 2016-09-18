@@ -9,6 +9,7 @@
     "build": "node build/build.js",
     "test": ""
   },
+  "main": "src/smart-gesture.js",
   "dependencies": {
     "babel-runtime": "^6.0.0",
     "smart-gesture": "^1.2.0",
