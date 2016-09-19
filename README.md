@@ -1,14 +1,7 @@
 # vue-smart-gesture
 
-这是[smart-gesture](https://github.com/ElemeFE/smart-gesture)的vue版本
+这是[smart-gesture](https://github.com/ElemeFE/smart-gesture)的vue版本, 在线 [demo](https://elemefe.github.io/smart-gesture/)
 
-## 安装
-
-可通过npm安装
-
-```
-npm install --save vue-smart-gesture
-```
 
 ## Usage
 

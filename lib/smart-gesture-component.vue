@@ -1,6 +1,6 @@
 <template>
   <div class="smart-gesture-wrapper">
-
+    <slot></slot>
   </div>
 </template>
 
