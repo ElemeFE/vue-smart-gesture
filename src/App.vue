@@ -46,7 +46,7 @@
 </template>
 
 <script>
-import smartGesture from '../lib/smart-gesture';
+import smartGesture from 'haha-smart-gesture';
 
 export default {
   data() {
