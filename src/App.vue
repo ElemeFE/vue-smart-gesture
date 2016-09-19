@@ -46,7 +46,7 @@
 </template>
 
 <script>
-import smartGesture from './smart-gesture';
+import smartGesture from '../lib/smart-gesture';
 
 export default {
   data() {
