@@ -1,6 +1,6 @@
 {
   "name": "vue-smart-gesture",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A Vue.js project",
   "scripts": {
     "dev": "node build/dev-server.js",
@@ -41,5 +41,9 @@
     "webpack-dev-middleware": "^1.4.0",
     "webpack-hot-middleware": "^2.6.0",
     "webpack-merge": "^0.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ElemeFE/vue-smart-gesture.git"
   }
 }
