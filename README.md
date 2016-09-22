@@ -1,6 +1,6 @@
 # vue-smart-gesture
 
-这是[smart-gesture](https://github.com/ElemeFE/smart-gesture)的vue版本, 在线 [demo](https://elemefe.github.io/smart-gesture/)
+这是 [smart-gesture](https://github.com/ElemeFE/smart-gesture) 的 vue 版本, 在线 [demo](https://elemefe.github.io/smart-gesture/)
 
 
 ## Usage
@@ -98,6 +98,10 @@
 npm i
 npm run dev
 ```
+
+## Contribution
+
+请在提交 PR 前阅读我们的[贡献指南](./.github/CONTRIBUTING_zh-cn.md)
 
 ## License
 
