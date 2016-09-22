@@ -2,6 +2,11 @@
 
 这是 [smart-gesture](https://github.com/ElemeFE/smart-gesture) 的 vue 版本, 在线 [demo](https://elemefe.github.io/smart-gesture/)
 
+## 安装
+
+```
+npm install --save vue-smart-gesture
+```
 
 ## Usage
 
